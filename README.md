@@ -83,8 +83,8 @@ The Random Forest model's predictions are saved in `compare_result` with the fol
 ### **How to Use**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/myslyurt/datacamp-ds-associate-practical-exam.git
-   cd house-sales-prediction
+   git clone https://github.com/myslyurt/House-sales-prediction-Data-scientist-associate-cert-project.git
+   cd House-sales-prediction-Data-scientist-associate-cert-project
    ```
 
 2. Install required Python libraries:  
