@@ -122,6 +122,7 @@ The Random Forest model's predictions are saved in `compare_result` with the fol
 If you have any questions or suggestions, please contact:
 - **Name**: Murat Yesilyurt
 - **Email**: myesilyurtdsc@gmail.com
-- **GitHub**: [Murat Yesilyurt](https://github.com/myslyurt)
+- **Linkedin**: [Murat Yesilyurt](https://www.linkedin.com/in/yesilyurt-murat/)
+- 
 
 Happy coding! 😊
